@@ -23,7 +23,7 @@
 		<dependency>
 			<groupId>com.android.support</groupId>
 			<artifactId>support-v4</artifactId>
-			<version>r7</version>
+			<version>local</version>
 		</dependency>
 	</dependencies>
 	<build>
